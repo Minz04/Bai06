@@ -1,0 +1,15 @@
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\NTBM1\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
